@@ -1,7 +1,8 @@
-# Projektlabor Rheine Faceshield
+# Projektlabor Rheine face shield
 
-This is the Repository of the faceshield developed and produced by the *Projektlabor Rheine*.
-Feel free to download and cut theese on your Laser cutter.
+This is the Repository of the face shield developed and produced by the *Projektlabor Rheine*.
+Feel free to download and cut theese on your own Laser cutter. <br>
+**We would be pleased to be named as authors in case of further use.**
 
 ![Faceshield](bilder/Instruktionen/20200420_193050_comp.jpg)
 
