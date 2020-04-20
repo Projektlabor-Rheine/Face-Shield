@@ -3,6 +3,8 @@
 This is the Repository of the faceshield developed and produced by the *Projektlabor Rheine*.
 Feel free to download and cut theese on your Laser cutter.
 
+![Faceshield](bilder/Instruktionen/20200420_193050_comp.jpg)
+
 ## Interested?
 **Write to sommer@pkr-projekt.de**
 
@@ -21,8 +23,6 @@ Feel free to download and cut theese on your Laser cutter.
 - Some Plastic Glue
 
 **Some Pictures below**
-
-![Faceshield](bilder/Instruktionen/20200420_193050_comp.jpg)
 
 ![Material](bilder/Instruktionen/20200420_192046_comp.jpg)
 Material you need to build the shields
@@ -57,7 +57,7 @@ Use Rubber bands to secure the film in place
 **DONE !!!**
 
 ![Tighten](bilder/Instruktionen/IMG_20200420_193055_comp.jpg)
-You can tighten the Rubber!
+You *can* tighten the Rubber!
 
 
 
