@@ -49,8 +49,8 @@ Now on the other side aswell. Almost done!
 ![Foil installation](bilder/Instruktionen/IMG_20200420_192639_comp.jpg)
 Punch 4Holes into the A4 film and put them onto the frame. 
 
-![Rubber bands](bilder/Instruktionen/IMG_20200420_192733_comp.jpg)
 ![Rubber bands](bilder/Instruktionen/IMG_20200420_192645_comp.jpg)
+![Rubber bands](bilder/Instruktionen/IMG_20200420_192733_comp.jpg)
 Use Rubber bands to secure the film in place
 
 ![Done](bilder/Instruktionen/IMG_20200420_193019_comp.jpg)
