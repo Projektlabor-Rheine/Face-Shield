@@ -15,7 +15,7 @@ The system is not certified.
 ## Ideas?
 ### Post on Instagram: @projektlabor or #plshield
 
-## Making the Faceshields:
+## Making the Face shields:
 - *Cutout's*:
    - Banana
    - Connector x2
@@ -26,7 +26,9 @@ The system is not certified.
 - Rubber band x3
 - Some Plastic Glue
 
-**Some Pictures below**
+#### Alternatively you can also build a shield with just the Velcro straps. For instructions on building these look [here](./Klettshields.md)
+
+**Building the Face shields with a Rubber belt:**
 
 ![Material](bilder/Instruktionen/20200420_192046_comp.jpg)
 Material you need to build the shields
