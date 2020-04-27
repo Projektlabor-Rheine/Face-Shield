@@ -9,14 +9,14 @@ The shield that uses just velcro straps has the advantage of being a little bit 
 
 ### Image instructions
 
-![Velcro strap](bilder/Instruktionen/k_DSC5987.jpg)
+![Velcro strap](bilder/Instruktionen/k_DSC5987.JPG)
 Insert the Velcrostrap into the first hole.
 
-![Velcro strap](bilder/Instruktionen/k_DSC5990.jpg)
+![Velcro strap](bilder/Instruktionen/k_DSC5990.JPG)
 Thread it back into the second, out of the fourth and through the fifth back in again.
 
-![Velcro strap](bilder/Instruktionen/k_DSC5995.jpg)
+![Velcro strap](bilder/Instruktionen/k_DSC5995.JPG)
 After that it looks like this.
 
-![Velcro strap](bilder/Instruktionen/k_DSC5997.jpg)
+![Velcro strap](bilder/Instruktionen/k_DSC5997.JPG)
 Then just add the other Velcrostrap and voila: Done!
